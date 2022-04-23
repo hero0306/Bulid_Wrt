@@ -4,7 +4,6 @@ echo
 echo "本脚本仅适用于在Ubuntu环境下编译 kenzo"
 echo
 echo
-sleep 2s
 sudo apt-get update
 sudo apt-get upgrade
 
